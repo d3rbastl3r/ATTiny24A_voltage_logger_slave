@@ -1,0 +1,1 @@
+# ATTiny24A_voltage_logger_slave
